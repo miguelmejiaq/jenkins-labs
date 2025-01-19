@@ -1,0 +1,4 @@
+# Exclude ssh keyfiles
+*jenkins_authentication**
+volumes
+.env
