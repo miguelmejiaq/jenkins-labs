@@ -2,3 +2,4 @@
 *jenkins_authentication**
 volumes
 .env
+keys/known_hosts**
