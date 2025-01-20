@@ -20,3 +20,10 @@ Start docker compose jenkins
 ```bash
 docker compose up -d
 ```
+
+working with nexus
+
+```bash
+docker exec -it nexus cat /nexus-data/admin.password 
+docker login localhost:8082/jenkins-agent -u admin -p Cloud123
+```
