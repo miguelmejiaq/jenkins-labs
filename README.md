@@ -1,6 +1,8 @@
 # jenkins-labs
 
-This repo generates a Jenkins environment with nexus for artifactory push
+This repo generates a Jenkins environment with nexus for artifactory push.
+
+## Jenkins configuration
 
 ### Useful commands
 
